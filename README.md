@@ -11,7 +11,7 @@
 
 # 💫 About Me:
 
-🧠 Learning: MERN Stack + Next.js <br>🌐 Portfolio: Working on it <br>📬 Hit me up: [theworrstprogrammer@gmail.com](mailto:theworrstprogrammer@gmail.com) <br>🔧 Random fact: I break stuff just to fix it again<br>
+🧠 Learning: MERN Stack + Next.js <br>🌐 Portfolio: Working on it <br>📬 Hit me up: [atulpal2200@gmail.com](mailto:atulpal2200@gmail.com) <br>🔧 Random fact: I break stuff just to fix it again<br>
 
 > “I write code, therefore I exist.” — someone with dark circles 😭
 
@@ -30,3 +30,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=atsin6&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
