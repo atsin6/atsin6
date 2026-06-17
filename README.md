@@ -1,33 +1,129 @@
-# Hey 👋, I'm Atul Pal
+# <div align="center">
 
-💻 Full Stack Dev (in the making) | Code = Therapy 🧠
-📍 Based in India | Currently learning + building stuff that makes life easier
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+PostgreSQL;Building+Scalable+Backend+Systems;Learning+Full+Stack+JavaScript+(MERN);Solving+DSA+%7C+Preparing+for+Placements" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Currently+Learning+MERN+Stack" alt="Typing SVG" />
-</p>
+<br/>
+
+<pre>
+┌─────────────────────────────────────────────┐
+│  Backend Developer                          │
+│  Java • Spring Boot • PostgreSQL            │
+│  MCA @ IET Lucknow                          │
+└─────────────────────────────────────────────┘
+</pre>
+
+</div>
+
+```bash
+atul@github:~$ whoami
+
+Atul Pal
+
+Backend Developer focused on Java, Spring Boot and PostgreSQL.
+
+Currently building backend systems, improving DSA skills,
+and preparing for software engineering internships.
+```
 
 ---
 
-# 💫 About Me:
+## ~/current-focus
 
-🧠 Learning: MERN Stack + Next.js <br>🌐 Portfolio: Working on it <br>📬 Hit me up: [atulpal2200@gmail.com](mailto:atulpal2200@gmail.com) <br>🔧 Random fact: I break stuff just to fix it again<br>
+```bash
+$ cat roadmap.txt
 
-> “I write code, therefore I exist.” — someone with dark circles 😭
+[✓] Java Fundamentals
+[✓] Spring Boot
+[✓] REST APIs
+[✓] PostgreSQL
 
-## 🌐 Socials:
+[ ] MERN
+[ ] DSA
+[ ] Building Projects
+```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atulpal2200) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/atulpal2200) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:theworrstprogrammer@gmail.com) [![Peerlist](https://img.shields.io/badge/Peerlist-00B956?style=flat&logoColor=white)](https://peerlist.io/atulpal)
+---
 
-# 💅 Stuff I Touch Sometimes
+## ~/projects
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+### 🚕 Uber Clone Backend
 
-# 📊 GitHub Stats:
+```bash
+Features
+├── JWT Authentication
+├── Driver Matching
+├── Wallet System
+├── Dynamic Fare Calculation
+├── PostGIS Queries
+└── REST APIs
+```
 
-![](https://github-readme-stats.vercel.app/api?username=atsin6&theme=holi&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=atsin6&theme=holi&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=atsin6&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Repository:
+[https://github.com/atsin6/ai-code-reviewer](https://github.com/atsin6/dashr)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🤖 AI Code Reviewer
 
+```bash
+Stack
+├── React
+├── Spring Boot
+├── Gemini API
+└── Vercel
+```
+
+Repository:
+https://github.com/atsin6/ai-code-reviewer
+
+---
+
+## ~/leetcode
+
+<!-- LEETCODE_START -->
+
+```bash
+atul@leetcode:~$ profile
+
+Username     : _atulpal
+
+atul@leetcode:~$ stats
+
+Solved       : Loading...
+Easy         : Loading...
+Medium       : Loading...
+Hard         : Loading...
+
+Acceptance   : Loading...
+```
+
+<!-- LEETCODE_END -->
+
+---
+
+## ~/github-stats
+
+<div align="left">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=atsin6&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=atsin6&theme=midnight-purple&hide_border=true&background=00000000"/>
+
+</div>
+
+---
+
+## ~/connect
+
+```bash
+GitHub    : github.com/atsin6
+LinkedIn  : linkedin.com/in/atulpal2200
+LeetCode  : leetcode.com/u/_atulpal
+Email     : atulpal2200@gmail.com
+```
+
+---
+
+```bash
+atul@github:~$ exit
+
+"Consistency compounds. One commit at a time."
+```
